@@ -28,4 +28,6 @@ In the beginning of the game, the player will only have access to a select few s
 After completing commissions, you will have the plants and their properties stored and available
 for use in future projects. There may also be hidden objectives if you experiment and create an
 extra potent medicine! Also, at first, the player will only be able to combine a certain number of traits.
-As they progress though, they will be able to mix and match more and more traits.
+As they progress though, they will be able to mix and match more and more traits. Some traits of the
+flowers and soils will need to be discovered and only revealed after splicing them with the right
+combination.
